@@ -11,3 +11,6 @@ pub const CLAW_S: f32 = 30.0;
 
 pub const SNACK_W: f32 = 40.0;
 pub const NUM_SNACKS: usize = 15;
+
+pub const TIME: usize = 30;
+pub const DESIRED_FPS: u32 = 60;
